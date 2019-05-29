@@ -4,7 +4,7 @@ plugins {
     kotlin("jvm") version "1.3.21"
 }
 
-group = "at.cnoize.contests"
+group = "at.cnoize.challenges"
 version = "1.0-SNAPSHOT"
 
 repositories {
